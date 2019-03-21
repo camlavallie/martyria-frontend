@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url(../images/type.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    position: center;
+    color: snow;
+  }
